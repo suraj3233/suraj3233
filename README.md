@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suraj3233
+- 👋 Hi, I’m Suraj Patil
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me https://www.linkedin.com/in/thesurajpatil/
